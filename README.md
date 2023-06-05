@@ -1,5 +1,7 @@
-"# BigBrew-LandingPage"
+<div align="center">
 
-## Big Brew is ony of my favorite Milktea Shop here in our province
+  <h2 align="center">BigBrew - Landing Page Website</h2>
 
-## I will try to build a responsive landing page website for their store using HTML, CSS, and JavaScript. In order to practice my CSS and JavaScript familiarity
+Big brew is on of my favorite milktea shop here in our province, <br />And I will try to build a responsive landing page for their store using HTML, CSS, and JavaScript. In order to practice my CSS and JavaScript familiarity
+
+</div>
